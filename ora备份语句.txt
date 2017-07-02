@@ -1,0 +1,3 @@
+expdp QXJDB2/QXJDB2@oradb dumpfile=QXJDB220161219afterupadateyinpin.dmp logfile=QXJDB220161219afterupdateyinpin.log compression=all
+
+expdp QXJDB2/QXJDB2@oradb dumpfile=QXJDB220161219.dmp logfile=QXJDB220161219.log compression=all
